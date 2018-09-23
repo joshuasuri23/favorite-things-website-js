@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style> h1 {
+            background-color: rgb(0, 0, 0);
+        }</style>
+    <h1 style="color:rgb(255, 255, 255);" 
+    style="font-family:monospace"> Games- Dead by Daylight, 2k19, and Fortnite <br>Joshua Suri</h1>
+</head>
+<body style="background-image: url(https://i.ytimg.com/vi/aiU22lKiZbA/maxresdefault.jpg);";>
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JGhIXLO3ul8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gDF0-D_t8B0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2gUtfBmw86Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <br><br><br>
+<img src="https://images-na.ssl-images-amazon.com/images/I/81lZ7zrjILL._SL1500_.jpg" alt="Dead BY Dalight PS4" style="width:300px;height:300px;">
+<img src="https://i.imgur.com/X1Ge39r.jpg" alt="2K19 PS4" style="width:300px;height:300px;">
+<img src="https://images-na.ssl-images-amazon.com/images/I/917JLu3S8DL._AC_SL1500_.jpg" alt="2K19 PS4" style="width:300px;height:300px;">
+</body>
+</html>
